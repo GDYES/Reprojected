@@ -1,6 +1,6 @@
 # Reprojected
 
-...
+.....
 
 # Building
 ## Via github actions (this is the best variant for beginners)
