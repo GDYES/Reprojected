@@ -13,4 +13,8 @@ class Reprojected : Mod() {
 		//time is needed
 	}
 	
+	
+	override fun loadContent(){
+	    
+	}
 }
